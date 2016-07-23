@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyProgressView">
+        <attr name="progress_heigth" format="dimension" />
+        <attr name="progress_width" format="dimension" />
+    </declare-styleable>
+</resources>
